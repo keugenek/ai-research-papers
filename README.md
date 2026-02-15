@@ -15,10 +15,10 @@ This repository hosts research papers and pre-prints authored or co-authored by 
 
 | # | Title | Date | Status | Links |
 |---|-------|------|--------|-------|
-| — | *Coming soon* | — | — | — |
+| 1 | Automated Classification of Source Code Changes Based on Metrics Clustering in the Software Development Process | 2009 | PhD Thesis (translated) | [LaTeX source](papers/knyazev-phd-2009/source/main.tex) &#124; [Original PDF (Russian)](papers/knyazev-phd-2009/knyazev_autorefer_original.pdf) |
 
 <!-- Add papers as rows:
-| 1 | Paper Title | 2026-MM | Pre-print | [PDF](papers/paper-title.pdf) &#124; [arXiv](https://arxiv.org/abs/XXXX.XXXXX) |
+| 2 | Paper Title | 2026-MM | Pre-print | [PDF](papers/paper-title.pdf) &#124; [arXiv](https://arxiv.org/abs/XXXX.XXXXX) |
 -->
 
 ## Repository Structure
