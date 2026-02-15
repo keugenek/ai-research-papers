@@ -1,0 +1,24 @@
+# AI Research Papers — Evgenii Kniazev
+
+> Repository of pre-prints and research papers on artificial intelligence, machine learning, and autonomous systems by Evgenii Kniazev.
+
+## Topics Covered
+
+- Large language models (LLMs): architecture, fine-tuning, alignment, inference
+- Autonomous AI agents: planning, tool use, multi-agent coordination
+- Machine learning systems: distributed training, serving, MLOps
+- Applied AI: retrieval-augmented generation, code generation, human-AI interaction
+
+## Structure
+
+- papers/ — Full paper PDFs and LaTeX source
+- abstracts/ — Plain-text abstracts for each paper
+- supplementary/ — Associated code, datasets, and experiments
+
+## How to Use
+
+Browse the papers/ directory for published and pre-print research. Each paper directory contains the PDF, abstract, and any supplementary code or data. See README.md for a table of all publications with links.
+
+## Author
+
+Evgenii Kniazev — https://github.com/keugenek

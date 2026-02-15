@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "AI Research Papers — Evgenii Kniazev"
+message: "If you use or reference work from this repository, please cite it using this metadata."
+type: dataset
+authors:
+  - family-names: Kniazev
+    given-names: Evgenii
+    alias: keugenek
+repository-code: "https://github.com/keugenek/ai-research-papers"
+license: CC-BY-4.0
