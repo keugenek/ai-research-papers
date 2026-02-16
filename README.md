@@ -15,10 +15,11 @@ This repository hosts research papers and pre-prints authored or co-authored by 
 
 | # | Title | Date | Status | Links |
 |---|-------|------|--------|-------|
-| 1 | Automated Classification of Source Code Changes Based on Metrics Clustering in the Software Development Process | 2009 | PhD Thesis (translated) | [LaTeX source](papers/knyazev-phd-2009/source/main.tex) &#124; [Original PDF (Russian)](papers/knyazev-phd-2009/knyazev_autorefer_original.pdf) |
+| 1 | app.build: A Production Framework for Scaling Agentic Prompt-to-App Generation with Environment Scaffolding | 2025 | Published (arXiv v2) | [arXiv](https://arxiv.org/abs/2509.03310) &#124; [PDF](https://arxiv.org/pdf/2509.03310) |
+| 2 | Automated Classification of Source Code Changes Based on Metrics Clustering in the Software Development Process | 2009 | PhD Thesis (translated) | [LaTeX source](papers/knyazev-phd-2009/source/main.tex) &#124; [Original PDF (Russian)](papers/knyazev-phd-2009/knyazev_autorefer_original.pdf) |
 
 <!-- Add papers as rows:
-| 2 | Paper Title | 2026-MM | Pre-print | [PDF](papers/paper-title.pdf) &#124; [arXiv](https://arxiv.org/abs/XXXX.XXXXX) |
+| 3 | Paper Title | 2026-MM | Pre-print | [PDF](papers/paper-title.pdf) &#124; [arXiv](https://arxiv.org/abs/XXXX.XXXXX) |
 -->
 
 ## Repository Structure
