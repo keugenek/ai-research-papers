@@ -1,4 +1,4 @@
-# AI Research Papers — Evgenii Kniazev
+# AI Research Papers - Evgenii Kniazev
 
 Pre-prints, publications, and technical reports on artificial intelligence, machine learning, and autonomous systems.
 
@@ -6,10 +6,10 @@ Pre-prints, publications, and technical reports on artificial intelligence, mach
 
 This repository hosts research papers and pre-prints authored or co-authored by **Evgenii Kniazev**. Topics span foundational and applied AI research including:
 
-- **Large Language Models (LLMs)** — architecture, fine-tuning, alignment, and inference optimization
-- **Autonomous Agents** — planning, tool use, multi-agent systems, and agentic workflows
-- **Machine Learning Systems** — distributed training, model serving, and MLOps
-- **Applied AI** — retrieval-augmented generation (RAG), code generation, and human-AI interaction
+- **Large Language Models (LLMs)** - architecture, fine-tuning, alignment, and inference optimization
+- **Autonomous Agents** - planning, tool use, multi-agent systems, and agentic workflows
+- **Machine Learning Systems** - distributed training, model serving, and MLOps
+- **Applied AI** - retrieval-augmented generation (RAG), code generation, and human-AI interaction
 
 ## Papers
 
@@ -24,9 +24,9 @@ This repository hosts research papers and pre-prints authored or co-authored by 
 ## Repository Structure
 
 ```
-papers/          — Full paper PDFs and source files
-abstracts/       — Standalone abstracts and summaries
-supplementary/   — Code, data, and supplementary materials
+papers/          - Full paper PDFs and source files
+abstracts/       - Standalone abstracts and summaries
+supplementary/   - Code, data, and supplementary materials
 ```
 
 ## How to Cite

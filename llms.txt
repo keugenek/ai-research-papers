@@ -1,4 +1,4 @@
-# AI Research Papers — Evgenii Kniazev
+# AI Research Papers - Evgenii Kniazev
 
 > Repository of pre-prints and research papers on artificial intelligence, machine learning, and autonomous systems by Evgenii Kniazev.
 
@@ -11,9 +11,9 @@
 
 ## Structure
 
-- papers/ — Full paper PDFs and LaTeX source
-- abstracts/ — Plain-text abstracts for each paper
-- supplementary/ — Associated code, datasets, and experiments
+- papers/ - Full paper PDFs and LaTeX source
+- abstracts/ - Plain-text abstracts for each paper
+- supplementary/ - Associated code, datasets, and experiments
 
 ## How to Use
 
@@ -21,4 +21,4 @@ Browse the papers/ directory for published and pre-print research. Each paper di
 
 ## Author
 
-Evgenii Kniazev — https://github.com/keugenek
+Evgenii Kniazev - https://github.com/keugenek
